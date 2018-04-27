@@ -14,4 +14,6 @@ class Dog
 end
   
 
-  
+Wubba=Dog.new
+wubba.name=("Winston")
+
